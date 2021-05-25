@@ -1,10 +1,10 @@
 # personalBlog
 个人博客
 
-├─blog_back              //  后端Php源代码（默认账号/密码：admin/admin）
-├─blog_front             // 前端Vue源代码
-├─myblog_v2.sql          // 数据库结构（内容除一组账号外为空）
-└─源代码包结构.txt
+├─blog_back              //  后端Php源代码（默认账号/密码：admin/admin）  
+├─blog_front             // 前端Vue源代码  
+├─myblog_v2.sql          // 数据库结构（内容除一组账号外为空）  
+└─源代码包结构.txt  
 
 作品亮点：  
 1.独立完成前后端分离项目；  
