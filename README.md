@@ -1,10 +1,9 @@
 # personalBlog
 个人博客
 
-├─CsMain                    // 使用C#编写的主程序源代码（默认账号/密码：admin/admin）  
-├─PyDataAnsys               // 使用Pyhon编写的数据分析部分源代码  
-├─work_info.db3             // 数据库结构（内容除一组账号外为空）  
-├─使用说明-v1.2.docx         // 详细的软件说明  
+├─blog_back              //  后端Php源代码（默认账号/密码：admin/admin）
+├─blog_front             // 前端Vue源代码
+├─myblog_v2.sql          // 数据库结构（内容除一组账号外为空）
 └─源代码包结构.txt
 
 作品亮点：  
